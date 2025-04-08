@@ -11,7 +11,7 @@ This project focuses on building a Hybrid Recommender System designed to suggest
 
 ## Guideline:
 
-Our system combines both Content-Based Filtering and Collaborative Filtering to provide personalized food recommendations.
+This system combines both Content-Based Filtering and Collaborative Filtering to provide personalized food recommendations.
 
 The recommendation flow is as follows:
 
